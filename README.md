@@ -1,6 +1,6 @@
 ### DSA-Prep
 
-C++
-C
-Java
-Python
+C++  
+C  
+Java  
+Python  
