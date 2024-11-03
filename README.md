@@ -1,6 +1,6 @@
 # DSA-Prep  
 
 1. C++  
-C  
+2. C  
 Java  
 Python  
